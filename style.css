@@ -1,0 +1,40 @@
+
+body{
+    text-align: center;
+    margin: 0;
+}
+.main{
+    margin: 300px 300px 300px 200px;
+    padding: 100px;
+    width: 900px;
+    height: 400px;
+    background-color:   hsl(212, 45%, 89%);
+    position: relative;
+}
+.inside{
+   
+   width: 290px;
+   height: 440px;
+   padding-top: 20px;
+    background-color: hsl(0, 0%, 100%);
+   position: absolute;
+   left: 420px;
+   top: 50px;
+   border-radius: 15px;
+}
+.qr{
+    width: 260px;
+    border-radius: 10px;
+}
+.text-main{
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Outfit';
+}
+.text-p{
+    font-size: 15px;
+   margin-bottom: 30px;
+   font-family: 'Outfit';
+   color: hsl(212, 45%, 89%);
+}
